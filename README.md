@@ -41,7 +41,7 @@ Your app is ready to be deployed!
 **Steps:**
 1. create new dashboard extension'.
 2. Choose Hosting Method as 'Hosted by Contentstack'.
-3. Add paste Minified Exyension code from my-app/build/index.html in Extension source code.
+3. Paste Minified Exyension code from my-app/build/index.html in Extension source code.
 4. Create management Token and add that in config
 
 Config Parameter Example:
